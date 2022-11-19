@@ -1,2 +1,2 @@
 # Wedding_planner
-Wedding planner - SOA-based client-server application 
+Service Oriented Architecture-based client-server application - Wedding planner 
